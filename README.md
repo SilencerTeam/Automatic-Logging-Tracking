@@ -17,6 +17,6 @@ Recorded Demo of the project = <br/>
  Looking to improve the webapp fore better function and more stability and increased accuracy.
  ## *6. Contributors :nerd_face:*
   - Ayush Roy<br/>
-  - Ritwick Halder ![alt text](https://github.com/SilencerTeam/Silencer/blob/main/Room_2/Ritwick.jpg)<br/>
+  - Ritwick Halder<br/>
   - Arkaprovo Acharya<br/>
   - Reetam Chatterjee
