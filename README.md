@@ -10,7 +10,7 @@ Recorded Demo of the project = <br/>
   - Then we frontend page using streamlit(i.e view.py).<br/> 
   - We also linked this frontend file(i.e view.py) to the main file(i.e, app.py).<br/>
   - ![alt text](https://github.com/SilencerTeam/Silencer/blob/main/result/Screenshot%20(1040).png)<br/>
-  - ![alt text](https://github.com/SilencerTeam/Silencer/blob/main/result/Screenshot%20(1042).png)
+  - ![alt text](https://github.com/SilencerTeam/Silencer/blob/main/result/2022-02-13%20(4).png)
 
  ## *3. Used*
  ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
