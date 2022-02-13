@@ -15,7 +15,7 @@ Recorded Demo of the project = <br/>
  ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ## *5. Future Improvements :raised_eyebrow:*
  Looking to improve the webapp fore better function and more stability and increased accuracy.
- ## *6. Contributers :nerd_face:*
+ ## *6. Contributors :nerd_face:*
   - Ayush Roy<br/>
   - Ritwick Halder<br/>
   - Arkaprovo Acharya<br/>
