@@ -5,6 +5,7 @@ Recorded Demo of the project = https://youtu.be/jynEHndne-g<br/>
 
 ## *2. Description :thinking:*
   - We created a webapp using python and streamlit.<br/>
+  - We first created separeate folders containing photos of different persons who are allowed for certain rooms(eg. Board of directors room, CEO room, meeting room)
   - We first created three python files(eg. app_1.py, app_2.py, app_3.py) for running the program for three individual rooms. <br/>
   - Then we linked all these separate files to the main python file(eg. app.py).<br/>
   - Then we frontend page using streamlit(i.e view.py).<br/> 
