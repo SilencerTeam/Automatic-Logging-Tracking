@@ -1,7 +1,7 @@
 # AUTOMATIC LOGGING AND TRACKING SYSTEM
 Web application for auto-logging and tracking
 ## *1. Output :zipper_mouth_face:*
-Recorded Demo of the project = <br/>
+Recorded Demo of the project = https://youtu.be/jynEHndne-g<br/>
 
 ## *2. Description :thinking:*
   - We created a webapp using python and streamlit.<br/>
