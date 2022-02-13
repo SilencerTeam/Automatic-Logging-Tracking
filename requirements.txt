@@ -7,4 +7,4 @@ requests==2.26.0
 streamlit==1.4.0
 streamlit_lottie==0.0.3
 cmake==3.22.2
-dlib==19.22.99
+dlib==19.22.1
