@@ -115,7 +115,6 @@ def app():
 
         cv2.imshow('Webcam_1', img)
         FRAME_WINDOW.image(img)
-        st.success("Video captured succesfully!")
 
         k = cv2.waitKey(6) & 0xFF
         if k == 27:
