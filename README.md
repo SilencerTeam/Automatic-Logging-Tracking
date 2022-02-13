@@ -14,7 +14,7 @@ Recorded Demo of the project = https://youtu.be/jynEHndne-g<br/>
   - ![alt text](https://github.com/SilencerTeam/Silencer/blob/main/result/2022-02-13%20(4).png)
   
   
- ## *3. Working of the web-app :confident*
+ ## *3. Working of the web-app :confident:*
    - Our solution involves detecting the face of any person who is caught in the camera. We have provided the images of allowed persons in a folder. So if the concerned person caught in camera is allowed then the person will be allowed to enter. In any other case, the person will be marked as Unknown and the alarm will go off allowing the authorities to take any action against the person. Also the website will display a log of WHOs have entered at what TIME and in which ROOM. And also Unknown persons at what TIME and ROOM enhancing ATTENDANCE and SAFETY!!!
 
  ## *4. Used*
