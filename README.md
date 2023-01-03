@@ -22,7 +22,7 @@ Recorded Demo of the project = https://youtu.be/jynEHndne-g<br/>
  ## *5. IDE*
  ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ## *6. Future Improvements :raised_eyebrow:*
- Looking to improve the webapp fore better function and more stability and increased accuracy.
+ Looking to improve the webapp fore better function and more stability, increased accuracy and higher FPS rate.
  ## *7. Contributors :nerd_face:*
   - Ayush Roy<br/>
   - Ritwick Halder<br/>
